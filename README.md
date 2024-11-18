@@ -26,6 +26,7 @@ Welcome to the **Rock Paper Scissors Game**! This is a simple yet interactive ga
     https://github.com/Tarun18097/rps_game.github.io
 
 2. run the game.
+ ``` bash
     python rockpaperscissors.py (on windows)
     python3 rockpaperscissors.py (on linux or macOS)
 
